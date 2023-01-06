@@ -1,0 +1,17 @@
+MediguruAutomation/MediguruAutomation.iml
+MediguruAutomation/target/
+MediguruAutomation/.settings/
+MediguruAutomation/.classpath
+MediguruAutomation/.project
+MediguruAutomation/output/**/**/**
+MediguruAutomation/.idea/
+MediguruAutomation/report/**/**/**
+MediguruAutomation_New/DemoMavenAutomationProject.iml
+MediguruAutomation_New/target/
+MediguruAutomation_New/.settings/
+MediguruAutomation_New/.classpath
+MediguruAutomation_New/.project
+MediguruAutomation_New/output/**/**/**
+MediguruAutomation_New/.idea/
+MediguruAutomation_New/report/**/**/**
+
